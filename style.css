@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* objectives */
+.objectives{
+  line-height: 1.95rem;
+  text-align: justify; 
+  font-size: 1.1rem;
+}
+
+/* common */
+.common{
+  background-color: rgb(255, 232, 205);
+  color: #2e2e2e;
+}
+
+/* Contact */
+#contact{
+  font-size: larger;
+  line-height: 2.5rem;
+}
+
+/* contact icon color */
+.email{
+  color: #4c4a4a;
+  font-size: 1.3rem;
+}
+.phone{
+  color: #34A853;
+  font-size: 1.3rem;
+}
+.facebook{
+  color: #1877F2;
+  font-size: 1.3rem;
+}
+.insta{
+  color: #DC4B4F;
+  font-size: 1.3rem;
+}
